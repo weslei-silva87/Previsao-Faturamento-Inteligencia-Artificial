@@ -1,0 +1,12 @@
+# Previsao Faturamento Inteligencia Artificial
+No decorrer deste projeto, empreendi uma jornada meticulosa na criação de uma inteligência artificial que se propõe a antever as vendas futuras com base nos dispêndios em publicidade e propaganda, distribuídos entre diferentes veículos de comunicação, tais como rádio, televisão e jornal. Este processo teve início com a coleta criteriosa de dados pertinentes, relacionados tanto aos investimentos em publicidade quanto às vendas correspondentes. Em seguida, submetemos esses dados a um tratamento exaustivo, que abarcou desde a extração de informações relevantes até a correção de lacunas ou inconsistências nos dados, preparando-os para análise.
+
+Um elemento crucial nesse processo foi a adoção de técnicas estatísticas e de aprendizado de máquina para conceber um modelo de previsão. No contexto em questão, foram sugeridos o emprego de um modelo de árvore de decisão e um modelo de regressão linear para projetar as vendas futuras com base nos investimentos em publicidade e propaganda. Cada modelo possui suas particularidades e limitações, sendo a escolha entre eles ditada pela natureza dos dados e pelos objetivos do projeto.
+
+Para garantir a eficácia do modelo de previsão, empreendemos uma validação rigorosa, segmentando os dados em conjuntos de treinamento e teste, avaliando, assim, o desempenho do modelo em dados não utilizados anteriormente.
+
+Ao final, conduzimos simulações de investimento para avaliar a efetividade do modelo proposto. Os resultados dessas simulações evidenciaram um retorno satisfatório, sugerindo que o modelo é apto a fornecer insights valiosos à empresa, subsidiando suas decisões estratégicas acerca da alocação de recursos em publicidade e propaganda. Tal validação prática reforça nossa confiança na eficácia do modelo, bem como em sua habilidade para contribuir positivamente para as estratégias de negócios da empresa.
+
+Deste modo, afirmamos com segurança que o projeto atingiu seus objetivos, dotando a empresa de uma ferramenta robusta para embasar suas decisões por meio de dados concretos. Com um modelo de previsão confiável em mãos, a empresa se encontra em uma posição privilegiada para maximizar seus investimentos em publicidade e propaganda, impulsionando, assim, seu crescimento e sucesso nos negócios.
+
+Além disso, vale ressaltar que uma solução em Python foi apresentada como complemento a este projeto, oferecendo uma maneira prática e eficiente de prever o faturamento utilizando inteligência artificial, por meio do uso do dataframe do Python.
